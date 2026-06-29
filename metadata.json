@@ -1,0 +1,6 @@
+{
+  "name": "Trending Deekho",
+  "description": "A premium OTT-style educational video course platform for digital creators, freelancers, and entrepreneurs to learn in-demand digital skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
